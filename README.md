@@ -2,7 +2,7 @@
 
 Built for the DoTA Vibe Coding Competition.
 
-Live site: https://ami-145.github.io/PORTFOLIO/
+Live site: https://portfolio-91xsk2ux8-ami-145.vercel.app/
 
 An interactive portfolio: shoot targets, bust asteroids and unlock achievements
 to explore my skills, projects and hobbies. A plain webpage version is also available.
